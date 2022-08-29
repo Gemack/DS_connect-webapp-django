@@ -11,11 +11,11 @@ Data Science connect contain all features of a modern web application from authe
 
 ## To use
 
---- Download or clone this repo
---- Create and activate a Python virtual Environment in the cli.
+- Download or clone this repo
+- Create and activate a Python virtual Environment in the cli.
 
---- cd to the diwnloade file folder and run this command on the cli
-(pip install -r requirements.txt)
+- cd to the diwnloade file folder and run this command on the cli
+`pip install -r requirements.txt`
 
 SuperUSer email = bon@gmail.com
 password = bon35943
